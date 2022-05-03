@@ -1,0 +1,5 @@
+[API do sistema de transportes de Portugal]
+
+//Criar um app que calcula o tempo de deslocamento até o próximo ponto de drop-in de transporte público disponível./
+
+https://emel.city-platform.com/opendata/?ref=publicapis.dev
