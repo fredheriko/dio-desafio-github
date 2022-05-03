@@ -1,2 +1,2 @@
 # dio-desafio-github
-Rep confeccionado para entrega de projeto.
+Rep confeccionado para entrega de projeto da Dio
